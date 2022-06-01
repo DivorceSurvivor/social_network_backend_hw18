@@ -8,6 +8,9 @@ This applications uses [ExpressJS](https://expressjs.com/), [MongoDB](https://ww
 
 ## Demo
 
+https://user-images.githubusercontent.com/86085901/171459174-9b89ef7c-e959-4c4b-9b0b-504725cbbcc5.mp4
+
+
 ## Usage
 
 Create a .env file (refer to the .env.example file)
